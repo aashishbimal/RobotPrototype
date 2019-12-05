@@ -1,0 +1,6 @@
+spring:
+  main:
+    banner-mode: off
+  application:
+    name: robotics
+  profiles.active: dev
